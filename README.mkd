@@ -1,3 +1,4 @@
+The objective of the fork is edit a bit the plugin for my own use. I will make a Yii extension for make changes via AJAX requests.
 
 FullCalendar - Full-sized drag & drop event calendar
 ====================================================
